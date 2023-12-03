@@ -92,12 +92,10 @@
 - <a href="https://drive.google.com/file/d/1JBShWvdExJ8gENqfDUPzfLX1zU7bHC8-/view" target="_blank">Review Paper</a> International Conference on Recent Trends in Blockchain, Artificial Intelligence, and Metaverse Paper Presentation at ITM (SLS) Baroda University 2023 📝
 
 ## Extra Curricular Activities
-
 - Black Belt in Karate 🥋
 - Upandhya Visharad in Tabla 🎶
 
 ## Hobbies
-
 - <a href="https://www.youtube.com/@keyurjain7109">Music-Playing Instruments</a> 🎸
 - Reading Books 📚
 - Volleyball 🏐
