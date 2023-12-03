@@ -11,7 +11,7 @@
 - **Email:** keyurjain9913@gmail.com 📧
 - **Mobile:** +91 9824358141 📱
 
-## <b>Technical Skills </b>
+## Technical Skills 
 
 - **Web:** Html5, CSS3, Javascript, Wordpress, Microsoft365, Github 💻
 - **AI/ML:** CNN, RNN, SciKitLearn, Matplotlib, Pandas 🤖
