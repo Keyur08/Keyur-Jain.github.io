@@ -76,7 +76,7 @@ Using Supervised Learning">Diabetes Prediction 🩺 </a>
 
 - <a href="https://www.cloudskillsboost.google/public_profiles/d91ee41a-95fe-4029-97d5-fb1cb570ff5d">Google Cloud Skill Boost Badges 🏅</a>
 - <a href="https://developers.google.com/profile/u/KeyurJain">Google Developer Profile 💻 </a>
-- Microsoft Learn AI Skills Challenge - Microsoft 🚀
+- <a href="https://learn.microsoft.com/en-us/users/keyurjain-1615/">Microsoft Learn AI Skills Challenge - Microsoft 🚀</a>
 - Python Programming (BASIC, INTERMEDIATE & ADVANCE LEVEL) - LUDIFU (Let Us Do It For U) 🐍
 - AutoML Automated Machine Learning BootCamp (No Code ML) - Udemy 🤖
 - Python Project - Infosys Springboard 🐍
@@ -85,8 +85,8 @@ Using Supervised Learning">Diabetes Prediction 🩺 </a>
 
 ## Participation
 
-- BUILT AT DUHACKS 2.0 2023 🚀
-- Review Paper International Conference on Recent Trends in Blockchain, Artificial Intelligence, and Metaverse Paper Presentation at ITM (SLS) Baroda University 2023 📝
+- <a href="https://devfolio.co/projects/snap-seek-e063">BUILT AT DUHACKS 2.0 2023 🚀</a>
+- <a href="https://drive.google.com/file/d/1JBShWvdExJ8gENqfDUPzfLX1zU7bHC8-/view">Review Paper</a> International Conference on Recent Trends in Blockchain, Artificial Intelligence, and Metaverse Paper Presentation at ITM (SLS) Baroda University 2023 📝
 
 ## Extra Curricular Activities
 
@@ -95,7 +95,7 @@ Using Supervised Learning">Diabetes Prediction 🩺 </a>
 
 ## Hobbies
 
-- Music-Playing Instruments 🎸
+- <a href="https://www.youtube.com/@keyurjain7109">Music-Playing Instruments 🎸</a>
 - Reading Books 📚
 - Volleyball 🏐
 - Anime 🎬
