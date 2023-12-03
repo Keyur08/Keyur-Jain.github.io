@@ -54,8 +54,7 @@
   -<a href="https://github.com/Keyur08/Knowledge_web" target="_blank"> Knowledge Web 💡</a>
 
 - **AI/ Python**
-  - <a href="DIabeties Predictioin
-Using Supervised Learning" target="_blank">Diabetes Prediction 🩺 </a>
+  - <a href="https://github.com/Keyur08/diabetics-prediction-using-knn" target="_blank">Diabetes Prediction 🩺 </a>
     
   - Spam Email Detection 🚫
   - <a href="https://github.com/Keyur08/Review_Prediction" target="_blank">Review Analysis 📊 </a>
