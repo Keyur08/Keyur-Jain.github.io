@@ -46,7 +46,7 @@
 
 - **Javascript**
   - Notes 📝
-  - <a href="https://keyur08.github.io/DIl-e-Khwaish/">Music Player 🎵</a>
+  - <a href="https://keyur08.github.io/DIl-e-Khwaish/"> Music Player 🎵</a>
 
 - **Freelance Work**
   -<a href="https://github.com/Keyur08/Knowledge_web"> Knowledge Web 💡</a>
