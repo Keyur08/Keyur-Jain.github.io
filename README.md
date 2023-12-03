@@ -1,5 +1,3 @@
-
-
 # Keyur Jain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keyur_Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keyur-jain-469857228/)
