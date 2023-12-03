@@ -46,15 +46,17 @@
 
 - **Javascript**
   - Notes 📝
-  - Music Player 🎵
+  - <a href="https://keyur08.github.io/DIl-e-Khwaish/">Music Player 🎵</a>
 
 - **Freelance Work**
-  - Knowledge Web 💡
+  -<a href="https://github.com/Keyur08/Knowledge_web"> Knowledge Web 💡</a>
 
 - **AI/ Python**
-  - Diabetes Prediction 🩺
+  - <a href="DIabeties Predictioin
+Using Supervised Learning">Diabetes Prediction 🩺 </a>
+    
   - Spam Email Detection 🚫
-  - Review Analysis 📊
+  - <a href="https://github.com/Keyur08/Review_Prediction">Review Analysis 📊 </a>
 
 ## Community Experience
 
@@ -72,8 +74,8 @@
 
 ## Certifications
 
-- Google Cloud Skill Boost Badges 🏅
-- Google Developer Profile 💻
+- <a href="https://www.cloudskillsboost.google/public_profiles/d91ee41a-95fe-4029-97d5-fb1cb570ff5d">Google Cloud Skill Boost Badges 🏅</a>
+- <a href="https://developers.google.com/profile/u/KeyurJain">Google Developer Profile 💻 </a>
 - Microsoft Learn AI Skills Challenge - Microsoft 🚀
 - Python Programming (BASIC, INTERMEDIATE & ADVANCE LEVEL) - LUDIFU (Let Us Do It For U) 🐍
 - AutoML Automated Machine Learning BootCamp (No Code ML) - Udemy 🤖
