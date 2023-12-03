@@ -1,3 +1,5 @@
+<div style="background-color: #f0f0f0; padding: 20px;">
+
 # Keyur Jain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keyur_Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keyur-jain-469857228/)
@@ -6,7 +8,7 @@
 
 - **Email:** keyurjain9913@gmail.com 📧
 - **Mobile:** +91 9824358141 📱
-
+<pre>
 ## Technical Skills
 
 - **Web:** Html5, CSS3, Javascript, Wordpress, Microsoft365, Github 💻
@@ -99,3 +101,5 @@ Using Supervised Learning">Diabetes Prediction 🩺 </a>
 - Reading Books 📚
 - Volleyball 🏐
 - Anime 🎬
+</pre>
+</div>
