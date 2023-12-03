@@ -5,7 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keyur_Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keyur-jain-469857228/)
 [![GitHub](https://img.shields.io/badge/GitHub-Keyur08-black?style=flat&logo=github)](https://github.com/Keyur08)
 [![Twitter](https://img.shields.io/badge/Twitter-@keyurjain_2208-blue?style=flat&logo=twitter)](https://twitter.com/KeyurJain_2208)
-<div style="background-color:#E8BEAC; padding: 20px;">
+
+<div style="background-color:#E8BEAC; padding: 20%; width="auto";>
+  
 - **Email:** keyurjain9913@gmail.com 📧
 - **Mobile:** +91 9824358141 📱
 <pre>
