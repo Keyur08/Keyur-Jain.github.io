@@ -19,6 +19,7 @@
 - **Machine Learning Intern**
   - **Company:** Prodigy Info tech
   - **Duration:** Oct 2023 – Nov 2023
+  - <a href="https://github.com/Keyur08/OIBSIP">Tasks </a>
 
 - **Data Science Intern**
   - **Company:** Oasis Infobyte
