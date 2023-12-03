@@ -95,7 +95,7 @@ Using Supervised Learning">Diabetes Prediction 🩺 </a>
 
 ## Hobbies
 
-- <a href="https://www.youtube.com/@keyurjain7109">Music-Playing Instruments 🎸</a>
+- <a href="https://www.youtube.com/@keyurjain7109">Music-Playing Instruments</a> 🎸
 - Reading Books 📚
 - Volleyball 🏐
 - Anime 🎬
