@@ -29,20 +29,21 @@
 
 ## Education
 
-- **Class X GSEB in SSC**
-  - **Percentage:** 79.60%
-  - **Year:** June 2019
-  - **School:** Akshar Public School
+
+- **B.Tech in AI Computer Science & Engineering**
+  - **Duration:** Sept 2021 – May 2025
+  - **University:** ITM SLS Baroda University, Vadodara
+  - **CGPA:** 8.00/10 (Currently)
 
 - **Class XII GHSEB in HSC**
   - **Percentage:** 88.00%
   - **Year:** July 2021
   - **School:** Akshar Public School
 
-- **B.Tech in AI Computer Science & Engineering**
-  - **Duration:** Sept 2021 – May 2025
-  - **University:** ITM SLS Baroda University, Vadodara
-  - **CGPA:** 8.00/10 (Currently)
+- **Class X GSEB in SSC**
+  - **Percentage:** 79.60%
+  - **Year:** June 2019
+  - **School:** Akshar Public School
 
 ## Projects
 
