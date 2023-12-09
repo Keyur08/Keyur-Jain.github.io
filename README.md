@@ -66,8 +66,8 @@
 - **GDSC LEAD – 2023**
   - ITM(SLS) Baroda University
 
-- **Event Management Volunteer**
-  - HEXSOCIETY
+- **Core Team**
+  - Pi & AI Vadodara Community
 
 - **Core Team**
   - ILLUMINATI 2k23 – ITMBU
@@ -99,5 +99,5 @@
 - <a href="https://www.youtube.com/@keyurjain7109">Music-Playing Instruments</a> 🎸
 - Reading Books 📚
 - Volleyball 🏐
-- Anime 🎬
+- Watching Anime 🎬
 
