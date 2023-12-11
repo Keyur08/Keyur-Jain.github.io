@@ -12,7 +12,7 @@
 ## Technical Skills 
 
 - **Web:** Html5, CSS3, Javascript, Wordpress, Microsoft365, Github 💻
-- **AI/ML:** CNN, RNN, SciKitLearn, Matplotlib, Pandas 🤖
+- **AI/ML:** CNN, RNN, SciKitLearn, Matplotlib, Pandas, Numpy, Scipy 🤖
 - **Programming Languages:** Python, Java, SQL, R 🐍
 - **Cloud Computing & GenAI:** Google Cloud Platform ☁️
 
