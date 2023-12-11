@@ -57,7 +57,6 @@
 
 - **AI/ Python**
   - <a href="https://github.com/Keyur08/diabetics-prediction-using-knn" target="_blank">Diabetes Prediction 🩺 </a>
-    
   - <a href="https://github.com/Keyur08/Email-Classification-Spam-or-Ham-">Spam Email Detection </a>
   - <a href="https://github.com/Keyur08/Review_Prediction" target="_blank">Review Analysis 📊 </a>
 
