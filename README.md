@@ -59,7 +59,7 @@
   - <a href="https://github.com/Keyur08/diabetics-prediction-using-knn" target="_blank">Diabetes Prediction 🩺 </a>
   - <a href="https://github.com/Keyur08/Email-Classification-Spam-or-Ham-" target="_blank">Spam Email Detection </a>
   - <a href="https://github.com/Keyur08/Review_Prediction" target="_blank">Review Analysis 📊 </a>
-  - <a href="https://github.com/Keyur08/Insurance_Premium_Prediction_ML_Model" targer="_blank"> Insurance Premium Prediction </a>
+  - <a href="https://github.com/Keyur08/Insurance_Premium_Prediction_ML_Model" target="_blank"> Insurance Premium Prediction </a>
 
 ## Community Experience
 
