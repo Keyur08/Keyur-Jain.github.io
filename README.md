@@ -18,6 +18,12 @@
 
 ## Internship Experience
 
+- **Project Intern**
+  - **Company:** iNeuron.ai
+  - **Duration:** Dec 2023 – Jan 2024
+  - <a href="" targer="_blank">Experience Letter </a>
+  -<a href="https://github.com/Keyur08/Insurance_Premium_Prediction_ML_Model" targer="_blank">Github Repo</a>
+
 - **Machine Learning Intern**
   - **Company:** Prodigy Info tech
   - **Duration:** Oct 2023 – Nov 2023
