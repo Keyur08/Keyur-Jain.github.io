@@ -18,6 +18,11 @@
 
 ## Internship Experience
 
+- **WebDev Intern**
+  - **Company:** SoftTechies
+  - **Duration:** Jan 2024 - Present
+ 
+
 - **Project Intern**
   - **Company:** iNeuron.ai
   - **Duration:** Dec 2023 – Jan 2024
