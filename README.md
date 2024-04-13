@@ -17,10 +17,13 @@
 - **Cloud Computing & GenAI:** Google Cloud Platform ☁️
 
 ## Internship Experience
+- **AI/ML Developer Intern**
+  - **Company:** AV DEVS
+  - **Duration:** April 2024 - Present
 
 - **WebDev Intern**
   - **Company:** SoftTechies
-  - **Duration:** Jan 2024 - Present
+  - **Duration:** Jan 2024 - April 2024
  
 
 - **Project Intern**
