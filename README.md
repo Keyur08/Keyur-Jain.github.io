@@ -7,7 +7,7 @@
 
   
 - **Email:** keyurjain9913@gmail.com 📧
-- **Mobile:** +91 9824358141 📱
+
 
 ## Technical Skills 
 
